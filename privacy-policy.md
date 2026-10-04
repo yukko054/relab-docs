@@ -1,108 +1,108 @@
-# Политика конфиденциальности
+# Privacy Policy
 
-Мобильное приложение «Relab» для сотрудников. Дата последнего изменения:
-‹дата публикации›.
+“Relab” mobile app for employees. Last updated: ‹publication date›.
 
-## 1. Кто обрабатывает данные
+## 1. Who processes the data
 
-Оператор — ‹полное юридическое наименование›, ‹ОГРН›, ‹юридический адрес›.
-Вопросы об обработке персональных данных: artur_galaichuk@mail.ru.
+The operator is ‹full legal name›, ‹OGRN (state registration number)›,
+‹registered address›. Questions about personal data processing:
+artur_galaichuk@mail.ru.
 
-## 2. Для кого приложение
+## 2. Who the app is for
 
-«Relab» — рабочее приложение для сотрудников сети Relab. Зарегистрироваться в
-нём нельзя: учётную запись выдаёт администрация. Приложение не предназначено
-для гостей заведений и для лиц младше 18 лет.
+“Relab” is a work app for employees of the Relab restaurant group. You cannot
+sign up in it: accounts are issued by the management. The app is not intended
+for restaurant guests or for persons under 18.
 
-Часть разделов — управление проверками, Трекер задач, аналитика —
-открывается внутри приложения как страницы сайта hub.relab.family, если у вас
-есть к ним доступ. На них действует эта же политика.
+Some sections — inspection management, the task Tracker, analytics — open
+inside the app as pages of the hub.relab.family website, if you have access to
+them. This policy applies to them as well.
 
-## 3. Какие данные обрабатываются
+## 3. What data is processed
 
-- **Учётная запись:** логин, имя, адрес электронной почты, телефон (если
-  указан), должность, заведение, права доступа, изображение профиля, хеш
-  пароля.
-- **Проверки Relab Check:** ответы на пункты проверки, комментарии, подписи,
-  а также фото, видео, аудиозаписи и файлы, которые вы сами прикладываете к
-  пунктам.
-- **Геопозиция:** координаты и точность — только когда вы нажимаете
-  «Геопозиция» в пункте проверки. В фоне геопозиция не определяется.
-- **Уведомления:** push-токен устройства и платформа (iOS или Android) —
-  чтобы сообщить о назначенной вам проверке.
-- **Журнал действий:** IP-адрес и время входа и действий в Relab Check, в том
-  числе загрузки файлов, — для защиты от подбора пароля и журнала
-  безопасности.
+- **Account:** login, name, email address, phone number (if provided),
+  position, venue, access rights, profile picture, password hash.
+- **Relab Check inspections:** answers to inspection items, comments,
+  signatures, and the photos, videos, audio recordings and files you attach
+  to items yourself.
+- **Location:** coordinates and accuracy — only when you tap “Геопозиция”
+  (Location) in an inspection item. Location is never determined in the background.
+- **Notifications:** device push token and platform (iOS or Android) — to tell
+  you about inspections assigned to you.
+- **Activity log:** IP address and time of sign-ins and of actions in Relab
+  Check, including file uploads — to protect against password guessing and for
+  the security log.
 
-Приложение не показывает рекламу, не содержит рекламных и аналитических SDK и
-не отслеживает вас между приложениями и сайтами. Оно не читает контакты и
-календарь и не запрашивает доступ к галерее: фото и видео к пунктам проверки
-снимаются камерой в момент проверки. Если на странице сайта внутри
-приложения вы сами выбираете файл — например, фото профиля, — передаётся
-только этот файл.
+The app shows no ads, contains no advertising or analytics SDKs and does not
+track you across apps and websites. It does not read your contacts or calendar
+and does not ask for access to your photo library: photos and videos for
+inspection items are taken with the camera during the inspection. If you
+choose a file yourself on a website page inside the app — for example, a
+profile picture — only that file is sent.
 
-## 4. Разрешения устройства
+## 4. Device permissions
 
-- **Камера** — фото, видео и сканирование QR-кодов к пунктам проверки.
-- **Микрофон** — звук в видео и аудиозаписи к пунктам проверки.
-- **Геопозиция при использовании** — отметка места ответа по нажатию.
-- **Уведомления** — сообщения о назначенных проверках.
+- **Camera** — photos, videos and QR code scanning for inspection items.
+- **Microphone** — sound in videos and audio recordings for inspection items.
+- **Location while using the app** — marking where an answer was given, on
+  tap.
+- **Notifications** — messages about assigned inspections.
 
-Каждое разрешение запрашивается при первом использовании. Отказ не мешает
-остальной работе приложения.
+Each permission is requested on first use. Declining it does not affect the
+rest of the app.
 
-## 5. Зачем
+## 5. Purpose
 
-Исполнение трудовых отношений и внутренних процессов: проведение проверок
-заведений, работа с задачами, доступ к рабочим материалам, а также
-безопасность доступа.
+Performance of employment relations and internal processes: inspecting
+venues, working with tasks, access to work materials, and access security.
 
-## 6. Хранение и передача
+## 6. Storage and transfer
 
-Данные хранятся на сервере оператора в ‹страна размещения›. Они не продаются
-и не передаются третьим лицам для рекламы или аналитики. Привлечённые
-обработчики: ‹перечислить: хостинг, объектное хранилище›.
+Data is stored on the operator's server in ‹hosting country›. It is not sold
+and is not shared with third parties for advertising or analytics. Data
+processors engaged: ‹list: hosting, object storage›.
 
-По поручению оператора данные получают сервисы:
+On the operator's behalf, data is received by:
 
-- **Apple Push Notification service и Firebase Cloud Messaging** — токен
-  устройства и текст уведомления (название проверки и объект).
-- **‹сервис отправки писем, страна›** — адрес электронной почты и текст
-  письма восстановления пароля.
-- **‹хранилище резервных копий, страна›** — резервные копии базы и файлов, в
-  зашифрованном виде.
+- **Apple Push Notification service and Firebase Cloud Messaging** — the
+  device token and the notification text (inspection title and venue).
+- **‹email service, country›** — email address and the text of the password
+  reset email.
+- **‹backup storage, country›** — encrypted backups of the database and
+  files.
 
-‹Если среди сервисов есть зарубежные — это трансграничная передача:
-формулировку даёт юрист.›
+‹If any of these services are located abroad, this is a cross-border
+transfer: the wording is provided by the lawyer.›
 
-На устройстве приложение хранит токен сессии и push-токен — в защищённом
-хранилище системы (Keychain на iOS, Keystore на Android). Страницы сайта
-внутри приложения хранят cookie сессии и свои настройки. На Android
-резервное копирование данных приложения в облако отключено.
+On the device, the app stores only the session token and the push token, in
+the system's secure storage (Keychain on iOS, Keystore on Android). Website
+pages inside the app store a session cookie and their own settings. On
+Android, cloud backup of app data is disabled.
 
-## 7. Защита
+## 7. Security
 
-Соединение с сервером — только по HTTPS. Пароли хранятся в виде хеша,
-доступна двухфакторная аутентификация, число попыток входа ограничено.
+Connections to the server use HTTPS only. Passwords are stored as hashes,
+two-factor authentication is available, and the number of sign-in attempts is
+limited.
 
-## 8. Сроки хранения и удаление
+## 8. Retention and deletion
 
-Данные сотрудника хранятся, пока действует его учётная запись, и далее — в
-сроки, установленные внутренним регламентом оператора: ‹указать утверждённые
-сроки›. Журнал действий хранится ‹срок›. Учётная запись рабочая, поэтому
-её удаляет работодатель. Запросить удаление учётной записи и данных можно по
-адресу artur_galaichuk@mail.ru: укажите логин или адрес почты учётной
-записи. Результаты проверок остаются у компании как рабочая документация,
-имя в них обезличивается.
+Employee data is kept while the account is active and afterwards for the
+periods set by the operator's internal regulations: ‹specify approved
+periods›. The activity log is kept for ‹period›. The account is a work
+account, so it is deleted by the employer. You can request deletion of your
+account and data at artur_galaichuk@mail.ru: include the login or email
+address of the account. Inspection results remain with the company as work
+records, with the name anonymized.
 
-## 9. Права сотрудника
+## 9. Employee rights
 
-Вы вправе получить сведения об обработке своих данных, потребовать их
-уточнения, блокирования или уничтожения, а также отозвать согласие, если
-обработка ведётся на его основании. Обращения — по адресу
-artur_galaichuk@mail.ru; ответ даётся в срок, установленный законом.
+You have the right to obtain information about the processing of your data,
+to demand that it be corrected, blocked or destroyed, and to withdraw consent
+where processing is based on consent. Requests: artur_galaichuk@mail.ru; a
+response is given within the period set by law.
 
-## 10. Изменения
+## 10. Changes
 
-О существенных изменениях политики оператор сообщает сотрудникам. Дата
-последнего изменения указана в начале страницы.
+The operator notifies employees of material changes to this policy. The date
+of the last update is shown at the top of the page.
