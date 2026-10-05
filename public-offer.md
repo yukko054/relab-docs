@@ -6,7 +6,9 @@ Published: ‹publication date›.
 
 ## 1. General provisions
 
-1.1. ‹Full legal name›, ‹OGRN›, ‹registered address› (the “Company”) offers
+1.1. CICHETI LLC (ООО «Чикети»), OGRN 1241600032178, registered address:
+d. 9a pom. 19, ul. Baumana, Kazan, Republic of Tatarstan, 420111, Russian
+Federation (the “Company”) offers
 to enter into an agreement on the terms of this offer (the “Agreement”) in
 accordance with Article 437(2) of the Civil Code of the Russian Federation.
 
@@ -112,7 +114,8 @@ court at the Company's location.
 
 ## 12. Company details
 
-‹Full legal name›
-OGRN ‹…›, INN ‹…›
-Address: ‹registered address›
+CICHETI LLC (ООО «Чикети»)
+OGRN 1241600032178, INN 1655503494, KPP 165501001, D-U-N-S 989040517
+Address: d. 9a pom. 19, ul. Baumana, Kazan, Republic of Tatarstan, 420111,
+Russian Federation
 Email: artur_galaichuk@mail.ru
