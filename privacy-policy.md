@@ -5,9 +5,9 @@
 ## 1. Who processes the data
 
 The operator is CICHETI LLC (ООО «Чикети»), OGRN 1241600032178,
-INN 1655503494, D-U-N-S 989040517, registered address: d. 9a pom. 19,
-ul. Baumana, Kazan, Republic of Tatarstan, 420111, Russian Federation.
-Questions about personal data processing:
+INN 1655503494, registered address: d. 9a pom. 19, ul. Baumana, Kazan,
+Republic of Tatarstan, 420111, Russian Federation. Questions about personal
+data processing:
 artur_galaichuk@mail.ru.
 
 ## 2. Who the app is for
