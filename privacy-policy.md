@@ -1,6 +1,6 @@
 # Privacy Policy
 
-“Relab” mobile app for employees. Last updated: ‹publication date›.
+“Relab” mobile app for employees. Last updated: October 5, 2026.
 
 ## 1. Who processes the data
 
@@ -16,9 +16,9 @@ relab-family@mail.ru.
 sign up in it: accounts are issued by the management. The app is not intended
 for restaurant guests or for persons under 18.
 
-Some sections — inspection management, the task Tracker, analytics — open
-inside the app as pages of the hub.relab.family website, if you have access to
-them. This policy applies to them as well.
+The “Управление” (Management) section — inspection templates, planning and
+analytics — opens inside the app as a page of the hub.relab.family website, if
+you have access to it. This policy applies to it as well.
 
 ## 3. What data is processed
 
@@ -56,25 +56,29 @@ rest of the app.
 ## 5. Purpose
 
 Performance of employment relations and internal processes: inspecting
-venues, working with tasks, access to work materials, and access security.
+venues, access to work materials, and access security.
 
 ## 6. Storage and transfer
 
-Data is stored on the operator's server in ‹hosting country›. It is not sold
-and is not shared with third parties for advertising or analytics. Data
-processors engaged: ‹list: hosting, object storage›.
+Data is stored on the operator's server in the Russian Federation. It is not
+sold and is not shared with third parties for advertising or analytics. Data
+processors in Russia: Reg.ru — the virtual server running the app and the
+database; Beget — object storage for inspection files (region ru1).
 
 On the operator's behalf, data is received by:
 
-- **Apple Push Notification service and Firebase Cloud Messaging** — the
-  device token and the notification text (inspection title and venue).
-- **‹email service, country›** — email address and the text of the password
-  reset email.
-- **‹backup storage, country›** — encrypted backups of the database and
-  files.
+- **Apple Push Notification service (Apple, USA) and Firebase Cloud
+  Messaging (Google, USA)** — the device token and the notification text
+  (inspection title and venue). The employee's name and login are not part
+  of the notification.
+- **Mail.ru email (VK, Russia)** — email address, name and the one-time code
+  in the password reset email.
+- **GitHub (USA)** — backups of the database and files, encrypted only. The
+  decryption key is held by the operator alone.
 
-‹If any of these services are located abroad, this is a cross-border
-transfer: the wording is provided by the lawyer.›
+Apple, Google and GitHub are located outside Russia, so transferring the data
+listed above to them is a cross-border transfer. Data is not transferred to
+any other foreign party.
 
 On the device, the app stores only the session token and the push token, in
 the system's secure storage (Keychain on iOS, Keystore on Android). Website
@@ -89,9 +93,11 @@ limited.
 
 ## 8. Retention and deletion
 
-Employee data is kept while the account is active and afterwards for the
-periods set by the operator's internal regulations: ‹specify approved
-periods›. The activity log is kept for ‹period›. The account is a work
+Employee data is kept while the account is active and for 365 more days after
+it is blocked on dismissal; the profile is then anonymized. HR documents are
+kept for the periods set by Russian archival law. The activity log is kept for
+365 days. The push token is deleted when you sign out of the app. Encrypted
+backups may retain data for up to 90 more days. The account is a work
 account, so it is deleted by the employer. You can request deletion of your
 account and data at relab-family@mail.ru: include the login or email
 address of the account. Inspection results remain with the company as work
