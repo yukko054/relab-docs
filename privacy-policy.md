@@ -8,7 +8,7 @@ The operator is CICHETI LLC (ООО «Чикети»), OGRN 1241600032178,
 INN 1655503494, registered address: d. 9a pom. 19, ul. Baumana, Kazan,
 Republic of Tatarstan, 420111, Russian Federation. Questions about personal
 data processing:
-artur_galaichuk@mail.ru.
+relab-family@mail.ru.
 
 ## 2. Who the app is for
 
@@ -93,7 +93,7 @@ Employee data is kept while the account is active and afterwards for the
 periods set by the operator's internal regulations: ‹specify approved
 periods›. The activity log is kept for ‹period›. The account is a work
 account, so it is deleted by the employer. You can request deletion of your
-account and data at artur_galaichuk@mail.ru: include the login or email
+account and data at relab-family@mail.ru: include the login or email
 address of the account. Inspection results remain with the company as work
 records, with the name anonymized.
 
@@ -101,7 +101,7 @@ records, with the name anonymized.
 
 You have the right to obtain information about the processing of your data,
 to demand that it be corrected, blocked or destroyed, and to withdraw consent
-where processing is based on consent. Requests: artur_galaichuk@mail.ru; a
+where processing is based on consent. Requests: relab-family@mail.ru; a
 response is given within the period set by law.
 
 ## 10. Changes

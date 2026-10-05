@@ -61,7 +61,7 @@ to the App and informs the management.
 - not to share data from the App with third parties without a work need.
 
 5.2. The User may request deletion of the Account at any time: “Ещё” (More) →
-“Удалить аккаунт” (Delete account), or by email to artur_galaichuk@mail.ru.
+“Удалить аккаунт” (Delete account), or by email to relab-family@mail.ru.
 
 ## 6. Company's rights and obligations
 
@@ -118,4 +118,4 @@ CICHETI LLC (ООО «Чикети»)
 OGRN 1241600032178, INN 1655503494, KPP 165501001, D-U-N-S 989040517
 Address: d. 9a pom. 19, ul. Baumana, Kazan, Republic of Tatarstan, 420111,
 Russian Federation
-Email: artur_galaichuk@mail.ru
+Email: relab-family@mail.ru
