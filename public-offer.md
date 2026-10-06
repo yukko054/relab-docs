@@ -1,6 +1,6 @@
 # Public Offer
 
-for the use of the “Relab” mobile app
+for the use of the “Relab Hub” mobile app
 
 Published: October 6, 2026 (https://hub.relab.family/terms.html, in Russian).
 
@@ -19,7 +19,7 @@ Company has issued an account (the “User”).
 
 ## 2. Definitions
 
-- **App** — the “Relab” mobile app for iOS and Android, and the sections of
+- **App** — the “Relab Hub” mobile app for iOS and Android, and the sections of
   the hub.relab.family website that open inside the app.
 - **Account** — the login and password issued by the Company.
 - **Work materials** — answers to inspection items, comments, photos,

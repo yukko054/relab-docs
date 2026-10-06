@@ -1,6 +1,6 @@
 # Privacy Policy
 
-“Relab” mobile app for employees. Last updated: October 5, 2026.
+“Relab Hub” mobile app for employees. Last updated: October 5, 2026.
 
 ## 1. Who processes the data
 
@@ -12,7 +12,7 @@ relab-family@mail.ru.
 
 ## 2. Who the app is for
 
-“Relab” is a work app for employees of the Relab restaurant group. You cannot
+“Relab Hub” is a work app for employees of the Relab restaurant group. You cannot
 sign up in it: accounts are issued by the management. The app is not intended
 for restaurant guests or for persons under 18.
 
