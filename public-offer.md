@@ -2,7 +2,7 @@
 
 for the use of the “Relab” mobile app
 
-Published: ‹publication date›.
+Published: October 6, 2026 (https://hub.relab.family/terms.html, in Russian).
 
 ## 1. General provisions
 
@@ -60,8 +60,9 @@ to the App and informs the management.
 - not to photograph or record bystanders unless the inspection requires it;
 - not to share data from the App with third parties without a work need.
 
-5.2. The User may request deletion of the Account at any time: “Ещё” (More) →
-“Удалить аккаунт” (Delete account), or by email to relab-family@mail.ru.
+5.2. The User may request deletion of the Account at any time: in the App —
+profile menu (avatar, top right) → “Удалить аккаунт” (Delete account), or by
+email to relab-family@mail.ru.
 
 ## 6. Company's rights and obligations
 
@@ -79,8 +80,8 @@ Privacy Policy: https://hub.relab.family/privacy.html.
 7.1. Work materials belong to the Company and remain with it after the
 Agreement ends.
 
-7.2. The exclusive rights to the App, its design, texts and the “Relab”
-trademarks belong to the Company.
+7.2. The exclusive rights to the App, its design and texts belong to the
+Company.
 
 ## 8. Liability
 
@@ -89,7 +90,7 @@ uninterrupted operation in case of technical failures, server maintenance or
 connectivity problems.
 
 8.2. Liability of the parties is governed by the laws of the Russian
-Federation. ‹Wording to be finalized by the lawyer.›
+Federation.
 
 ## 9. Term and termination
 
